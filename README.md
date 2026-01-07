@@ -34,36 +34,37 @@
 ## 🛠️ Core Engines (The Vibe Engines)
 *These are the most advanced IDEs that get you into the "Vibe" state .*
 
-- [Cursor](https://cursor.com/) - 🧩 The hottest AI-native editor right now, synonymous with Vibe-coding.
-- [Windsurf](https://codeium.com/windsurf) - 🌊 From Codeium, a next-generation IDE emphasizing context awareness.
-- [Trae](https://www.trae.sh/) - ⚡ An adaptive AI programming assistant from ByteDance.
 - [Aider](https://aider.chat/) - 💻 An AI programming expert in the terminal, perfect for hardcore Vibe-coders.
+- [Cursor](https://cursor.com/) - 🧩 The hottest AI-native editor right now, synonymous with Vibe-coding.
 - [PearAI](https://trypear.ai/) - 🍐 An open-source AI editor committed to fully transparent AI collaboration.
+- [Trae](https://www.trae.sh/) - ⚡ An adaptive AI programming assistant from ByteDance.
+- [Windsurf](https://codeium.com/windsurf) - 🌊 From Codeium, a next-generation IDE emphasizing context awareness.
 
 ## 🌐 Web-based Builders
 *No environment setup needed, deploy from 0 to 1 directly through conversation.*
 
-- [Lovable](https://lovable.dev/) - 🪄 An incredibly powerful AI full-stack application generation platform.
 - [Bolt.new](https://bolt.new/) - ⚡ A browser-based full-stack project generator.
-- [v0.dev](https://v0.dev/) - 🎨 From Vercel, specialized in UI and component generation.
+- [Lovable](https://lovable.dev/) - 🪄 An incredibly powerful AI full-stack application generation platform.
 - [Tempo Labs](https://www.tempolabs.ai/) - 🚀 An AI tool focused on visual React building.
+- [v0.dev](https://v0.dev/) - 🎨 From Vercel, specialized in UI and component generation.
 
 ## 🏗️ Vibe Tech Stack (The Vibe Stack)
 *The essence of Vibe-coding lies in "low friction" and "rapid feedback."*
 
 - **Frontend:** [Next.js](https://nextjs.org/) (default choice), [Tailwind CSS](https://tailwindcss.com/).
-- **UI Kits:** [shadcn/ui](https://ui.shadcn.com/) (soulmate), [Magic UI](https://magicui.design/), [Aceternity UI](https://ui.aceternity.com/).
-- **BaaS:** [Supabase](https://supabase.com/) (one-click database), [Convex](https://www.convex.dev/).
+- **UI Kits:** [Aceternity UI](https://ui.aceternity.com/), [Magic UI](https://magicui.design/), [shadcn/ui](https://ui.shadcn.com/) (soulmate).
+- **BaaS:** [Convex](https://www.convex.dev/), [Supabase](https://supabase.com/) (one-click database).
 - **Auth:** [Clerk](https://clerk.com/) (get login done in 5 minutes).
-- **Deploy:** [Vercel](https://vercel.com/), [Zeabur](https://zeabur.com/), [Railway](https://railway.app/).
+- **Deploy:** [Railway](https://railway.app/), [Vercel](https://vercel.com/), [Zeabur](https://zeabur.com/).
 
 ## 📜 Rules & Instructions
 *How to write `.cursorrules` to make AI perfectly understand your intentions.*
 
-- [Cursor Directory](https://cursor.directory/) - 📚 A library of best `.cursorrules` instructions for various frameworks.
-- [Repomix](https://github.com/yamadashy/repomix) - 📦 A god-tier tool that packages your entire codebase into a single Prompt.
+- [Anthropics Skills](https://github.com/anthropics/skills) - 🎓 Official repository of Agent Skills from Anthropic, demonstrating creative, technical, and enterprise workflows.
 - [Best-Cursor-Rules](https://github.com/biilmann/cursor-rules) - An excellent collection of prompt engineering resources.
+- [Cursor Directory](https://cursor.directory/) - 📚 A library of best `.cursorrules` instructions for various frameworks.
 - [OpenSkills](https://github.com/numman-ali/openskills) - 🔧 Universal skills loader for AI coding agents, implements Anthropic's Agent Skills specification.
+- [Repomix](https://github.com/yamadashy/repomix) - 📦 A god-tier tool that packages your entire codebase into a single Prompt.
 
 ## 🎨 Aesthetics & Design
 *The results of Vibe-coding must have top-tier visual appeal.*
@@ -76,9 +77,6 @@
 ## 🧠 Philosophy & Learning
 *Understanding the mindset shift behind Vibe-coding.*
 
-- [Andrej Karpathy on Vibe Coding](https://x.com/karpathy) - 🐦 Follow the originator of the Vibe-coding concept.
-- [Vibe Coding 101](https://example.com) - *[To be added]* How to shift from "writing code" to "training code."
-- [Effective Prompting for Devs](https://example.com) - *[To be added]* A prompt engineering guide for developers.
 
 ---
 

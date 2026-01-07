@@ -32,38 +32,39 @@
 ---
 
 ## 🛠️ 核心引擎 (The Vibe Engines)
-*这些是让你进入“Vibe”状态的最高级 IDE。*
+*这些是让你进入"Vibe"状态的最高级 IDE。*
 
-- [Cursor](https://cursor.com/) - 🧩 目前最火的 AI 原生编辑器，Vibe-coding 的代名词。
-- [Windsurf](https://codeium.com/windsurf) - 🌊 来自 Codeium，强调上下文感知的次世代 IDE。
-- [Trae](https://www.trae.sh/) - ⚡ 字节跳动出品的自适应 AI 编程助手。
 - [Aider](https://aider.chat/) - 💻 终端里的 AI 编程专家，适合硬核 Vibe-coders。
+- [Cursor](https://cursor.com/) - 🧩 目前最火的 AI 原生编辑器，Vibe-coding 的代名词。
 - [PearAI](https://trypear.ai/) - 🍐 开源的 AI 编辑器，致力于完全透明的 AI 协作。
+- [Trae](https://www.trae.sh/) - ⚡ 字节跳动出品的自适应 AI 编程助手。
+- [Windsurf](https://codeium.com/windsurf) - 🌊 来自 Codeium，强调上下文感知的次世代 IDE。
 
 ## 🌐 网页即时构建 (Web-based Builders)
 *不需要配置环境，直接通过对话从 0 到 1 部署。*
 
-- [Lovable](https://lovable.dev/) - 🪄 极其强大的 AI 全栈应用生成平台。
 - [Bolt.new](https://bolt.new/) - ⚡ 基于浏览器的全栈工程生成器。
-- [v0.dev](https://v0.dev/) - 🎨 Vercel 出品，专门处理 UI 与组件生成。
+- [Lovable](https://lovable.dev/) - 🪄 极其强大的 AI 全栈应用生成平台。
 - [Tempo Labs](https://www.tempolabs.ai/) - 🚀 专注于 React 视觉化构建的 AI 工具。
+- [v0.dev](https://v0.dev/) - 🎨 Vercel 出品，专门处理 UI 与组件生成。
 
 ## 🏗️ Vibe 技术栈 (The Vibe Stack)
-*Vibe-coding 的精髓在于“低摩擦”和“快速反馈”。*
+*Vibe-coding 的精髓在于"低摩擦"和"快速反馈"。*
 
 - **Frontend:** [Next.js](https://nextjs.org/) (默认选择), [Tailwind CSS](https://tailwindcss.com/).
-- **UI Kits:** [shadcn/ui](https://ui.shadcn.com/) (灵魂伴侣), [Magic UI](https://magicui.design/), [Aceternity UI](https://ui.aceternity.com/).
-- **BaaS:** [Supabase](https://supabase.com/) (一键数据库), [Convex](https://www.convex.dev/).
+- **UI Kits:** [Aceternity UI](https://ui.aceternity.com/), [Magic UI](https://magicui.design/), [shadcn/ui](https://ui.shadcn.com/) (灵魂伴侣).
+- **BaaS:** [Convex](https://www.convex.dev/), [Supabase](https://supabase.com/) (一键数据库).
 - **Auth:** [Clerk](https://clerk.com/) (5分钟搞定登录).
-- **Deploy:** [Vercel](https://vercel.com/), [Zeabur](https://zeabur.com/), [Railway](https://railway.app/).
+- **Deploy:** [Railway](https://railway.app/), [Vercel](https://vercel.com/), [Zeabur](https://zeabur.com/).
 
 ## 📜 规则与指令 (Rules & Instructions)
 *如何编写 `.cursorrules` 让 AI 完美理解你的意图。*
 
-- [Cursor Directory](https://cursor.directory/) - 📚 各种框架的最佳 `.cursorrules` 指令库。
-- [Repomix](https://github.com/yamadashy/repomix) - 📦 将整个代码库打包成一个 Prompt 的神级工具。
+- [Anthropics Skills](https://github.com/anthropics/skills) - 🎓 Anthropic 官方的 Agent Skills 仓库，展示了创意、技术和企业工作流的示例。
 - [Best-Cursor-Rules](https://github.com/biilmann/cursor-rules) - 优秀的提示词工程集合。
+- [Cursor Directory](https://cursor.directory/) - 📚 各种框架的最佳 `.cursorrules` 指令库。
 - [OpenSkills](https://github.com/numman-ali/openskills) - 🔧 AI 编码代理的通用技能加载器，实现了 Anthropic 的 Agent Skills 规范。
+- [Repomix](https://github.com/yamadashy/repomix) - 📦 将整个代码库打包成一个 Prompt 的神级工具。
 
 ## 🎨 视觉与审美 (Aesthetics & Design)
 *Vibe-coding 的成果必须具有顶级的视觉表现力。*
@@ -75,10 +76,6 @@
 
 ## 🧠 哲学与学习 (Philosophy & Learning)
 *理解 Vibe-coding 背后的思维转变。*
-
-- [Andrej Karpathy on Vibe Coding](https://x.com/karpathy) - 🐦 关注 Vibe-coding 概念的发起人。
-- [Vibe Coding 101](https://example.com) - *[待补充]* 如何从“写代码”转变为“调教代码”。
-- [Effective Prompting for Devs](https://example.com) - *[待补充]* 针对开发者的提示词工程指南。
 
 ---
 
